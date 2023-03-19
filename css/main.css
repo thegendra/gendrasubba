@@ -5,12 +5,6 @@ body {
 
 }
 
-.offices {
-    margin-top: 70px;
-    position: fixed;
-    height: 400px;
-    width: 600px;
-}
 
 a:link {
     text-decoration: none;
