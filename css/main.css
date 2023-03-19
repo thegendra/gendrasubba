@@ -1,0 +1,94 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to left, #ffffff 64%, #bee9e8 100%);
+
+}
+
+.offices {
+    margin-top: 70px;
+    position: fixed;
+    height: 400px;
+    width: 600px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #1B4965;
+}
+
+.navbar {
+    background: #5FA8D3;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+.nav-pills .nav-link.active {
+    background-color: #1B4965;
+    color: white;
+}
+.description {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description h1, h2 {
+	color: #1B4965;
+}
+strong {
+    color: #9c0d03;
+}
+p {
+	color: #1B4965;
+    background-color: #f3f9ff;
+	font-size: 1.3rem;
+	line-height: 1.5;
+    padding: 20px;
+    border-radius: 10px;
+}
+.description button {
+    border:1px solid #6ab446;
+    background:#1B4965;
+    border-radius: 0;
+    color:#fff;
+}
+.description button:hover {
+	border:1px solid #fff;
+    background:#fff;
+    color:#000;
+}
+.features {
+	margin: 4em auto;
+	padding: 1em;
+	position: relative;
+}
+.feature-title {
+	color: #1B4965;
+	font-weight: 700;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.features img {
+	margin-bottom: 16px;
+}
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    
+}
+.footer-copyright {
+    color: #666;
+    padding: 20px;
+}
+
