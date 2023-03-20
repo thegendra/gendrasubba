@@ -2,9 +2,15 @@ body {
     padding: 0;
     margin: 0;
     background: linear-gradient(to left, #ffffff 64%, #bee9e8 100%);
-
 }
-
+.offices {
+    margin-top: 70px;
+    height: 400px;
+    width: 600px;
+}
+.werkervaring2 {
+    padding-bottom: 20px;
+}
 
 a:link {
     text-decoration: none;
@@ -83,6 +89,7 @@ p {
 }
 .footer-copyright {
     color: #666;
-    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
